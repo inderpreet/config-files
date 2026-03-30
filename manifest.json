@@ -1,0 +1,19 @@
+{
+  "version": "1.2.0",
+  "files": [
+    {
+      "id": "bgc-pb-v5.0.7",
+      "key": "builds/release/bgc-pb-v5.0.7.hex",
+      "size": 256,
+      "enabled": "true",
+      "hash": ""
+    },
+    {
+      "id": "bgc-fp-v5.0.15",
+      "key": "builds/release/bgc-pb-v5.0.15.bin",
+      "size": 128,
+      "enabled": "true",
+      "hash": ""
+    }
+  ]
+}
