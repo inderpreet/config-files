@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "files": [
     {
       "id": "test-file",
@@ -13,38 +13,92 @@
     {
       "id": "bgc-pb-test",
       "key": "builds/release/bgc-pb-test.hex",
-      "size": 256,
+      "size": 69223,
       "enabled": "true",
-      "hash": "",
+      "hash": "0ea82117f9b44fef6eee76cb04c8f5ae883a4a79032e3bb494105267032b9134",
       "device": "bgcpb-test",
       "label": "Auto Test"
     },
     {
       "id": "blinky",
       "key": "builds/release/blinky.hex",
-      "size": 256,
+      "size": 43356,
       "enabled": "true",
-      "hash": "",
+      "hash": "9a3144a7e27facad3e75475082a572a809d48293296ee1ea32d87453234317ef",
       "device": "bgcpb-test",
       "label": "blinky"
     },
     {
       "id": "bgc-pb-v5.0.7",
-      "key": "builds/release/bgc-pb-v5.0.7.hex",
-      "size": 256,
+      "key": "builds/release/bgc-pb-5.0.7.hex",
+      "size": 187037,
       "enabled": "true",
-      "hash": "",
+      "hash": "8fc5105b9b93f5dc5f8eec386cd8e93d2a376d0506c9e44da00afec70f027c25",
       "device": "bgcpb",
       "label": "v5.0.7"
     },
     {
-      "id": "bgc-fp-v5.0.15",
-      "key": "builds/release/bgc-pb-v5.0.15.bin",
-      "size": 128,
+      "id": "bgc-pb-v5.0.8",
+      "key": "builds/release/bgc-pb-5.0.8.hex",
+      "size": 186939,
       "enabled": "true",
-      "hash": "",
+      "hash": "f3a51173f2100e75b4053cd0580b5af68d3ee0e5c449c7ab0e8af311f00df220",
+      "device": "bgcpb",
+      "label": "v5.0.8"
+    },
+    {
+      "id": "bgc-pb-v5.0.9",
+      "key": "builds/release/bgc-pb-5.0.9.hex",
+      "size": 187098,
+      "enabled": "true",
+      "hash": "6c8dde1b82df5760605521fdd9037d98de243ae3a1f697b81a20d01747839683",
+      "device": "bgcpb",
+      "label": "v5.0.9"
+    },
+    {
+      "id": "bgc-pb-v5.0.10",
+      "key": "builds/release/bgc-pb-5.0.10.hex",
+      "size": 188927,
+      "enabled": "true",
+      "hash": "d82cbc833211978d66ad98ddae515c3515662394e57f44b8a11f265907da5bd3",
+      "device": "bgcpb",
+      "label": "v5.0.10"
+    },
+    {
+      "id": "bgc-pb-v5.0.11",
+      "key": "builds/release/bgc-pb-5.0.11.hex",
+      "size": 189827,
+      "enabled": "true",
+      "hash": "35d9c68585cc0d0b98a48fac3ba35f66be694799af818819479c6fba53eaade8",
+      "device": "bgcpb",
+      "label": "v5.0.11"
+    },
+    {
+      "id": "bgc-fp-v5.0.9",
+      "key": "builds/release/bgc-fp-5.0.9.srec",
+      "size": 448554,
+      "enabled": "true",
+      "hash": "ff79a91b4caa55eea148c0208e067b6706e0be0cc74d84f1625e843f2267c8e0",
       "device": "bgcfp",
-      "label": "v5.0.15"
+      "label": "v5.0.9"
+    },
+    {
+      "id": "bgc-fp-v5.0.10",
+      "key": "builds/release/bgc-fp-5.0.10.srec",
+      "size": 448602,
+      "enabled": "true",
+      "hash": "2b70cfd237a8249a24ab6180ceaef85642690633e801f194ccc47ad4b70071ca",
+      "device": "bgcfp",
+      "label": "v5.0.10"
+    },
+    {
+      "id": "bgc-fp-v5.0.13",
+      "key": "builds/release/bgc-fp-5.0.13.srec",
+      "size": 453754,
+      "enabled": "true",
+      "hash": "34baf6591e6b2d9cb9d45329378317f7625874997bda22630d390b0f6b4c591d",
+      "device": "bgcfp",
+      "label": "v5.0.13"
     }
   ]
 }
