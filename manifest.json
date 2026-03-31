@@ -11,6 +11,24 @@
       "label": "test"
     },
     {
+      "id": "bgc-pb-test",
+      "key": "builds/release/bgc-pb-test.hex",
+      "size": 256,
+      "enabled": "true",
+      "hash": "",
+      "device": "bgcpb-test",
+      "label": "Auto Test"
+    },
+    {
+      "id": "blinky",
+      "key": "builds/release/blinky.hex",
+      "size": 256,
+      "enabled": "true",
+      "hash": "",
+      "device": "bgcpb-test",
+      "label": "blinky"
+    },
+    {
       "id": "bgc-pb-v5.0.7",
       "key": "builds/release/bgc-pb-v5.0.7.hex",
       "size": 256,
