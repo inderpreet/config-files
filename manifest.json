@@ -6,21 +6,27 @@
       "key": "builds/release/test_file.md",
       "size": 256,
       "enabled": "true",
-      "hash": ""
+      "hash": "",
+      "device": "none",
+      "label": "test"
     },
     {
       "id": "bgc-pb-v5.0.7",
       "key": "builds/release/bgc-pb-v5.0.7.hex",
       "size": 256,
       "enabled": "true",
-      "hash": ""
+      "hash": "",
+      "device": "bgcpb",
+      "label": "v5.0.7"
     },
     {
       "id": "bgc-fp-v5.0.15",
       "key": "builds/release/bgc-pb-v5.0.15.bin",
       "size": 128,
       "enabled": "true",
-      "hash": ""
+      "hash": "",
+      "device": "bgcfp",
+      "label": "v5.0.15"
     }
   ]
 }
